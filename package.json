@@ -1,8 +1,8 @@
 {
-  "name": "job-board-api",
+  "name": "node-express-typescript-mongodb-mongoose-template",
   "version": "1.0.0",
-  "description": "job board api project with express typescript",
-  "repository": "https://github.com/Aphatheology/ECX5/url-shortener",
+  "description": "a template to kickstart backend project with express typescript mongodb mongoose",
+  "repository": "https://github.com/Aphatheology/node-express-typescript-mongodb-mongoose",
   "author": "Aphatheology",
   "license": "MIT",
   "keywords": [
